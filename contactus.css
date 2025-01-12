@@ -1,0 +1,53 @@
+
+h1{
+    color: orange;
+}
+
+fieldset{
+    text-align: center;
+    margin: 0 500px 0 500px;
+    padding: 50px 60px 50px 60px;
+   
+    background-color: lightblue;
+ border-radius: 10px;
+   
+}
+p{
+    text-align: center;
+    color:red;
+    font-size: 0.5cm;
+}
+input[type="submit"]{
+    background-color: lightgreen;
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    color: white;
+}
+input[type="submit"]:hover{
+    background-color: gray;
+}
+label{
+    font-size: 20px;
+   
+    
+
+}
+input[type="text"]{
+    font-size: 25px;
+    border: 2px solid black;
+    border-radius: 5px;
+  
+    
+
+
+}
+input[type="email"]{
+    font-size: 25px;
+    border: 2px solid black;
+    border-radius: 5px;
+  
+    
+
+
+}

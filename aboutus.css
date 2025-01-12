@@ -1,0 +1,9 @@
+h1{
+    color: rgb(146, 203, 146);
+
+}
+div p{
+    color: lightblue;
+    border: 2px solid #fff;
+    background-color: #fff;
+}
